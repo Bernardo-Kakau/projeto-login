@@ -18,7 +18,8 @@
 
 body, html {
     background-color: #5f2c82;
-    
+    background-image:linear-gradient(to top, #49a89d, #5f2c82);
+
 }
 main{
     height:100vh;
